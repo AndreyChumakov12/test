@@ -1,0 +1,29 @@
+
+.ball {
+    display: block;
+    background-color:brown;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+.bal {
+    display: block;
+    background-color:brown;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+
+.container{
+    position: relative;
+    display: flex;
+    align-items: center;
+    
+    height: 200px;
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 500px;
+    background-color:cornflowerblue;
+
+}
